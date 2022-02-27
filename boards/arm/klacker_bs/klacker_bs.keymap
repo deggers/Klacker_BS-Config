@@ -125,10 +125,10 @@
         default_layer {
             label = "Base";
             bindings = <
-            &kp KP_N7     &kp KP_N8        &kp KP_N9    &kp Q        &kp W       &kp F       &kp P       &kp G                        &kp J       &kp L       &kp U       &kp Y       &kp QUOT        
-            &kp KP_N4     &kp KP_N5        &kp KP_N6    &hm LSHFT A  &hm LGUI R  &hm LALT S  &hm LCTRL T &kp D         &kp N7         &kp H       &hm RCTRL N &hm RALT E  &hm RGUI I  &hm RSHFT O     
-            &kp KP_N1     &kp KP_N2        &kp KP_N3    &kp Z        &kp X       &kp C       &kp V       &kp B    &kp N3    &kp N4    &kp K       &kp M       &kp COMMA   &kp DOT     &kp SEMI        
-            &kp KP_DOT    &kp KP_MULTIPLY  &kp KP_PLUS  &kp N1       &kp N2                  &none    &none                                                         &kp KP_ENTER &kp KP_N0       
+             &kp Q        &kp W       &kp F       &kp P       &kp G                        &kp J       &kp L       &kp U       &kp Y       &kp QUOT        &kp KP_N7     &kp KP_N8        &kp KP_N9  
+             &hm LSHFT A  &hm LGUI R  &hm LALT S  &hm LCTRL T &kp D         &kp N7         &kp H       &hm RCTRL N &hm RALT E  &hm RGUI I  &hm RSHFT O     &kp KP_N4     &kp KP_N5        &kp KP_N6  
+             &kp Z        &kp X       &kp C       &kp V       &kp B    &kp N3    &kp N4    &kp K       &kp M       &kp COMMA   &kp DOT     &kp SEMI        &kp KP_N1     &kp KP_N2        &kp KP_N3  
+             &kp N1       &kp N2                  &none    &none                                                         &kp KP_ENTER &kp KP_N0            &kp KP_DOT    &kp KP_MULTIPLY  &kp KP_PLUS
                                           &kp SPACE  &kp SPACE                    &kp SPACE   &kp SPACE
             >;
         };
